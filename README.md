@@ -7,6 +7,6 @@ Check it out [here](#) 😉
 HTML, CSS and Javascript
 
 # Author
-Shweta Gurnani
+Satyam Chaudhary
 
 If you have any difficulty in building up the code in the repository,feel free to open the issue!
